@@ -90,5 +90,3 @@ Assuming that at the beginning of the run file `books.txt` has the following inf
 ## Programming Language
 
 C
-
-The assignment instructions state that the `main.c` file must be uploaded to ITC as specified. Make sure it contains the required student information comment at the beginning of the file.
